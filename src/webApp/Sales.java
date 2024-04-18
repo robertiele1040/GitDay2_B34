@@ -6,4 +6,6 @@ public class Sales {
 
     // some changed
 
+    // more sales items added
+
 }
